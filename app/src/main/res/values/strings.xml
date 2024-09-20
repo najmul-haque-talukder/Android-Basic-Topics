@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Finally</string>
+
+    <string-array name="country">
+
+        <item>Bangladesh</item>
+        <item>Nepal</item>
+        <item>Vhutan</item>
+        <item>Japan</item>
+        <item>Russia</item>
+        <item>Soudi Arab</item>
+        <item>United Arab Emirats</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Finland</item>
+        <item>Swiezerland</item>
+    </string-array>
+</resources>
